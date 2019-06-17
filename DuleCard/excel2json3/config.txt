@@ -1,1 +1,1 @@
-D:\itemIng\DueCard\DuelCard\Assets\GameRes\_Publish\Configs
+D:\Workspace\DuelCard\Assets\GameRes\_Publish\Configs
